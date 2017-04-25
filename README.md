@@ -1,6 +1,6 @@
 # npmtest-remarkable
 
-#### test coverage for  [remarkable (v1.7.1)](https://github.com/jonschlinkert/remarkable)  [![npm package](https://img.shields.io/npm/v/npmtest-remarkable.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-remarkable) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-remarkable.svg)](https://travis-ci.org/npmtest/node-npmtest-remarkable)
+#### basic test coverage for  [remarkable (v1.7.1)](https://github.com/jonschlinkert/remarkable)  [![npm package](https://img.shields.io/npm/v/npmtest-remarkable.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-remarkable) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-remarkable.svg)](https://travis-ci.org/npmtest/node-npmtest-remarkable)
 
 #### Markdown parser, done right. 100% Commonmark support, extensions, syntax plugins, high speed - all in one.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-remarkable/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-remarkable/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-remarkable/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-remarkable/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-remarkable/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-remarkable/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-remarkable/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-remarkable/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-remarkable/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-remarkable/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-remarkable/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-remarkable/build/coverage.html/index.html)
 
